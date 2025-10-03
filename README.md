@@ -120,5 +120,5 @@ streamlit run script.py
 
 ## 👨‍💻 Author
 
-Developed by **Hari Vardhan Reddy Kummetha**.
-Open for contributions & suggestions!
+* Developed by **Hari Vardhan Reddy Kummetha**.
+* Open for contributions & suggestions!
