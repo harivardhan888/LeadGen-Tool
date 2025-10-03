@@ -6,6 +6,12 @@ Additionally, it includes **ML-powered predictive lead scoring** to identify the
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Deployed App**: [LeadGen Tool on Streamlit Cloud](https://scriptpy-qijtnowamhp6c59e2xysx6.streamlit.app/)
+
+---
+
 ## ✨ Features
 
 * 🔍 **Web Scraping** – Extracts name, title, phone, and email from staff directory pages.
@@ -67,7 +73,7 @@ HUNTER_API_KEY=your_hunter_api_key_here
 ### 5. Run the app
 
 ```bash
-streamlit run app.py
+streamlit run script.py
 ```
 
 ---
@@ -75,8 +81,14 @@ streamlit run app.py
 ## 🚀 Usage
 
 1. Enter the **URL of a staff directory page** in the text input.
+
+   * ⚠️ Note: The current code is written for sites that use `div.col-sm-3.col-xs-6` with `div.name`, `div.title`, etc.
+   * For **other sites** (e.g., [UARK Directory](https://cied.uark.edu/directory/?utm_source=chatgpt.com)), you’ll need to update the HTML tags in `scrape_leads()` inside `script.py`.
+
 2. Adjust **scoring weights** in the sidebar (Title, Email Validity, Domain).
+
 3. Click **Generate Leads**.
+
 4. Explore:
 
    * Summary metrics
@@ -108,7 +120,5 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Developed by [Hari Vardhan Reddy Kummetha].
+Developed by **Hari Vardhan Reddy Kummetha**.
 Open for contributions & suggestions!
-
----
