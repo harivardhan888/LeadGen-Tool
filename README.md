@@ -38,7 +38,7 @@ Additionally, it includes **ML-powered predictive lead scoring** to identify the
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/leadgen-tool.git
+git clone https://github.com/harivardhan888/leadgen-tool.git
 cd leadgen-tool
 ```
 
@@ -108,7 +108,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Developed by [Your Name].
+Developed by [Hari Vardhan Reddy Kummetha].
 Open for contributions & suggestions!
 
 ---
