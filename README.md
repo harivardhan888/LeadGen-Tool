@@ -12,6 +12,19 @@ Additionally, it includes **ML-powered predictive lead scoring** to identify the
 
 ---
 
+## Business Understanding  
+
+### What is Caprae’s Mission?  
+Caprae’s mission is to reshape the way entrepreneurship through acquisition (ETA) is practiced by focusing on developing leaders who can build lasting companies. Rather than treating acquisitions purely as financial transactions, Caprae emphasizes operational excellence, disciplined execution, and cultural transformation. Their philosophy of “bleed and build” underscores the importance of resilience, accountability, and long-term commitment from entrepreneurs who step into CEO roles. In short, Caprae is not just investing in businesses—it is investing in people who have the drive and skills to grow them sustainably.  
+
+### How is Caprae Changing the ETA Space and Broader PE?  
+Caprae is disrupting the ETA space by moving beyond the traditional search fund model. While many search funds focus heavily on raising capital and closing deals, Caprae provides deeper training, mentorship, and infrastructure that prepares entrepreneurs to thrive as operators. This reduces the high failure rate often seen in ETA and enables new CEOs to lead with confidence from day one.  
+
+In the broader private equity landscape, Caprae challenges the norm of short-term value extraction through financial engineering. Instead, its approach prioritizes hands-on leadership, operational improvements, and people-first strategies that strengthen the long-term health of acquired companies. By focusing on enduring growth and legacy preservation, Caprae offers a more sustainable alternative to the quick-turnover mindset that dominates much of private equity.  
+
+Through this model, Caprae is creating a new standard for ETA and PE—one that blends strong financial acumen with leadership development, operational rigor, and a genuine commitment to building companies that endure well beyond the transaction.  
+
+
 ## ✨ Features
 
 * 🔍 **Web Scraping** – Extracts name, title, phone, and email from staff directory pages.
